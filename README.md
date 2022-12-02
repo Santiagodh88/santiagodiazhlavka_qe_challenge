@@ -52,7 +52,7 @@ Help Adam gain confidence in further development by automatically testing the mo
 ### How to run the Cypress tests
 
 1. Fork and clone the repository.
-2. At the root directory of the repo, install dependencies by running `yarn` (if needed, [install yarn first](https://yarnpkg.com/getting-started))
+2. At the root directory of the repo, install dependencies by running `yarn install` (if needed, [install yarn first](https://yarnpkg.com/getting-started))
 3. Start the server: "yarn start"
 4. Run the tests: 
     headless mode: "yarn test:e2e"
